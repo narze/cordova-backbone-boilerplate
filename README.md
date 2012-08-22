@@ -9,7 +9,8 @@ Instructions (iOS)
 
 1. Download [Cordova](http://phonegap.com/download), or fork [this one](https://github.com/phonegap/phonegap)
 2. Browse lib/ios, mount Cordova-x.x.x.dmg, then install its .pkg
-3. Your CordovaLib should be ready now, open the .xcodeproj and test run with iOS simulator
+3. Your CordovaLib should be ready now, open the .xcodeproj and test run with iOS simulator (note: CordovaBB not CordovaLib)
+4. Start hacking in www/cordovabb
 
 Run on your browser
 -------------------
